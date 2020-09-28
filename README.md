@@ -1,26 +1,26 @@
 # MazeRunner
-
- Parts
-
--Turrets
--Coin System
--Healthbar Creation
--Bullets
--End Screen
--Coin Counter
--Character Controller
--Camera Controller
--Healthbar Script
--Obstacles
--Health item
--Level Manager
--Main Menu
-
 Story
 The player who tries to escape from the enemies enters a maze and disappears. A difficult journey
 awaits player in the labyrinth he/she enters. The only way out is to complete the level by
 overcoming the obstacles in the labyrinth and collecting the coins that are their task. When it
 reaches the destination, everything returns to normal and succeeds.
+
+Parts
+
+Turrets
+Coin System
+Healthbar Creation
+Bullets
+End Screen
+Coin Counter
+Character Controller
+Camera Controller
+Healthbar Script
+Obstacles
+Health item
+Level Manager
+Main Menu
+
 Manual Options
 
 The player can control the character with W, A, S and D keys.
