@@ -1,0 +1,49 @@
+﻿<Properties StartupConfiguration="{A883DF59-BF97-AC20-FDF3-C492BF379153}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Script/PickHealth.cs">
+    <Files>
+      <File FileName="Assets/Script/PlayerController.cs" Line="71" Column="10" />
+      <File FileName="Assets/Script/PickHealth.cs" Line="16" Column="2" />
+      <File FileName="Assets/Script/MainMenu.cs" />
+      <File FileName="Assets/Script/RestartGame.cs" />
+      <File FileName="Assets/Script/HealthBarScript.cs" />
+      <File FileName="Assets/Script/MoveObstacles.cs" />
+      <File FileName="Assets/Sci Fi Assets/PostProcessing/Editor/PropertyDrawers/MinDrawer.cs" />
+      <File FileName="Assets/Sci Fi Assets/PostProcessing/Editor/PropertyDrawers/GetSetDrawer.cs" />
+      <File FileName="Assets/Sci Fi Assets/PostProcessing/Editor/PropertyDrawers/TrackballGroupDrawer.cs" />
+      <File FileName="Assets/Sci Fi Assets/PostProcessing/Editor/Utils/CurveEditor.cs" />
+      <File FileName="Assets/Script/Turret.cs" Line="7" Column="31" />
+      <File FileName="Assets/Script/Bullet.cs" Line="7" Column="30" />
+      <File FileName="Assets/Script/HealthBar.cs" Line="12" Column="25" />
+      <File FileName="Assets/Script/CameraScript.cs" Line="13" Column="17" />
+      <File FileName="Assets/Script/UI_Manager.cs" Line="36" Column="1" />
+      <File FileName="Assets/Script/LevelManager.cs" Line="17" Column="29" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Se330UnityProject" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Sci Fi Assets" expanded="True">
+                <Node name="PostProcessing" expanded="True">
+                  <Node name="Editor" expanded="True">
+                    <Node name="Utils" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+              <Node name="Script" expanded="True">
+                <Node name="PickHealth.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="bdc609ce-3107-4038-88e2-ca95ca8e0f51" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
